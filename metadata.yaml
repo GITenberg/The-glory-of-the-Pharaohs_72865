@@ -1,5 +1,8 @@
 _repo: The-glory-of-the-Pharaohs_72865
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72865-h/images/cover.jpg
 creator:
   author:
     agent_name: Weigall, Arthur E. P. Brome (Arthur Edward Pearse Brome)
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37360
     wikipedia: https://en.wikipedia.org/wiki/Arthur_Weigall
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72865#The-glory-of-the-Pharaohs
 gutenberg_issued: '2024-02-03'
 gutenberg_type: Text
 identifiers:
